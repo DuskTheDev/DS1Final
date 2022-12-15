@@ -54,7 +54,7 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-image: url('BG.jpg');
+    background-image: url('https://www.ridgeline.pw/Photos/wildfire.png');
 }
 
 .background_blur {
@@ -159,3 +159,27 @@ body {
 .project__link:hover {
     text-decoration: none;
 }
+
+
+
+
+
+
+
+
+#search {
+    padding: 20px;
+    background: rgb(34,34,34); /* for IE */
+    background: rgba(34,34,34,0.75);
+  }
+
+  #search h2, #search h5, #search h5 a { text-align: center; color: #fefefe; font-weight: normal; }
+  #search h2 { margin-bottom: 50px }
+  #search h5 { margin-top: 70px }
+
+  #bg {
+    background-image: url('freelancer-desk.jpg');
+    background-position: center top;
+    background-size: 1080px auto;
+    padding: 70px 90px 120px 90px;
+  }
