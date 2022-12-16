@@ -54,7 +54,7 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-image: url('https://www.ridgeline.pw/Photos/wildfire.png');
+    background-image: url('wildfire.png');
 }
 
 .background_blur {
@@ -178,7 +178,6 @@ body {
   #search h5 { margin-top: 70px }
 
   #bg {
-    background-image: url('freelancer-desk.jpg');
     background-position: center top;
     background-size: 1080px auto;
     padding: 70px 90px 120px 90px;
